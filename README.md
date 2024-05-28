@@ -1,17 +1,17 @@
 # Hi there, I'm Md. Hasanuzzaman 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in [Your Interests], and I love working on open-source projects and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate about what i want to do, and I love to work hard on open-source projects and learning new technologies to servive the new modern world. Love to share new and interesting fact with my beloved one.
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Collaboration Interests]
-- 🤔 I’m looking for help with [Seeking Help With]
-- 💬 Ask me about [Topics You Can Be Asked About]
-- 📫 How to reach me: [Your Email or Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Fun Fact About You]
+- 🔭 I’m currently working on OOP of Modern language.
+- 🌱 I’m currently learning pyThon.
+- 👯 I’m looking to collaborate on python project.
+<!-- 🤔 I’m looking for help with [Seeking Help With]-->
+- 💬 Ask me about my interest and work exprerience.
+- 📫 How to reach me: contact.hasanuzzaman@gmail.com
+- 😄 Pronouns: He.
+- ⚡ Fun fact: This is the fun fact that sometimes i forgot about having meal when i do coding.
 
 ## My GitHub Stats
 
@@ -25,17 +25,16 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in [Your
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/HasanOfficial277)](https://www.linkedin.com/in/HasanOfficial277)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HasanOfficial27)](https://twitter.com/HasanOfficial27)
-[![Personal Website](https://img.shields.io/badge/-Website-red?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.hasanuzzaman@gmail.com)](mailto:contact.hasanuzzaman@gmail.com)
 
 ## Some of My Projects
 
-### [Project 1](https://github.com/HasanOfficial27/Project1)
+### [eCommerce Template](https://github.com/HasanOfficial27/eCommerce-Template))
 
-![Project 1 Screenshot](https://github.com/HasanOfficial27/Project1/raw/main/screenshot.png)
-Description of Project 1.
+![eCommerce Template Screenshot](https://github.com/HasanOfficial27/eCommerce-Template/raw/main/screenshot.png)
+This project was complete with HTML, CSS, JavaScript, Bootstrap, jQuery plugins etc. This is actually a design or frontend work. A great experience created with the project.
 
-### [Project 2](https://github.com/HasanOfficial27/Project2)
+<!--### [Project 2](https://github.com/HasanOfficial27/Project2)
 
 ![Project 2 Screenshot](https://github.com/HasanOfficial27/Project2/raw/main/screenshot.png)
 Description of Project 2.
@@ -44,7 +43,7 @@ Description of Project 2.
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Your Recent Blog Post 1](https://yourblog.com/your-recent-post-1)
+<!--- [Your Recent Blog Post 1](https://yourblog.com/your-recent-post-1)
 - [Your Recent Blog Post 2](https://yourblog.com/your-recent-post-2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -54,4 +53,4 @@ Thanks to all the amazing people who have contributed to my projects, provided f
 
 ## Support
 
-If you find my projects useful or interesting, consider giving a star ⭐ to the repositories. It motivates me to keep improving and creating!
+If you find my projects useful or interesting, consider giving a star ⭐ to the repositories. It motivates me to keep improving and creating. Happy coding!
