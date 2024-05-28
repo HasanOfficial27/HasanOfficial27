@@ -1,6 +1,6 @@
-# Hi there, I'm Md. Hasanuzzaman 👋
+# Welcome to My GitHub Profile! 👋
 
-Welcome to my GitHub profile! I'm passionate about what i want to do, and I love to work hard on open-source projects and learning new technologies to servive the new modern world. Love to share new and interesting fact with my beloved one.
+I'm Md. Hasanuzzaman, a dedicated and innovative developer with a passion for Web Design, PHP, Python, C++ and MySql. My journey in tech sector is driven by curiosity and a constant desire to push the boundaries of what's possible.
 
 ## About Me
 
@@ -20,6 +20,14 @@ Welcome to my GitHub profile! I'm passionate about what i want to do, and I love
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOfficial27&layout=compact&theme=radical)
 
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanOfficial27&theme=radical&hide_border=false)
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HasanOfficial27&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/HasanOfficial277)](https://www.linkedin.com/in/HasanOfficial277)
@@ -31,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about what i want to do, and I love
 ### [eCommerce Template](https://github.com/HasanOfficial27/eCommerce-Template))
 
 ![eCommerce Template Screenshot](https://github.com/HasanOfficial27/eCommerce-Template/raw/main/screenshot.png)
-This project was complete with HTML, CSS, JavaScript, Bootstrap, jQuery plugins etc. This is actually a design or frontend work. A great experience created with the project.
+**Description:** This project was complete with HTML, CSS, JavaScript, Bootstrap, jQuery plugins etc. This is actually a design or frontend work. A great experience created with the project.
 
 <!--### [Project 2](https://github.com/HasanOfficial27/Project2)
 
