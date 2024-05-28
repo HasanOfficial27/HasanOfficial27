@@ -4,14 +4,13 @@ Welcome to my GitHub profile! I'm a passionate about what i want to do, and I lo
 
 ## About Me
 
-- 🔭 I’m currently working on OOP of Modern language.
-- 🌱 I’m currently learning pyThon.
-- 👯 I’m looking to collaborate on python project.
-<!-- 🤔 I’m looking for help with [Seeking Help With]-->
-- 💬 Ask me about my interest and work exprerience.
+- 🔭 I’m currently working on OOP.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on PHP project.
 - 📫 How to reach me: contact.hasanuzzaman@gmail.com
+- 💬 Ask me about my interest.
 - 😄 Pronouns: He.
-- ⚡ Fun fact: This is the fun fact that sometimes i forgot about having meal when i do coding.
+- ⚡ Fun fact: The fun fact is that i am so innocent.
 
 ## My GitHub Stats
 
@@ -37,20 +36,8 @@ This project was complete with HTML, CSS, JavaScript, Bootstrap, jQuery plugins 
 <!--### [Project 2](https://github.com/HasanOfficial27/Project2)
 
 ![Project 2 Screenshot](https://github.com/HasanOfficial27/Project2/raw/main/screenshot.png)
-Description of Project 2.
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!--- [Your Recent Blog Post 1](https://yourblog.com/your-recent-post-1)
-- [Your Recent Blog Post 2](https://yourblog.com/your-recent-post-2)
-<!-- BLOG-POST-LIST:END -->
-
-## Acknowledgements
-
-Thanks to all the amazing people who have contributed to my projects, provided feedback, or helped me along the way.
+Description of Project 2.-->
 
 ## Support
 
-If you find my projects useful or interesting, consider giving a star ⭐ to the repositories. It motivates me to keep improving and creating. Happy coding!
+If you find my projects useful or interesting, consider giving a star ⭐ to my repositories. It motivates me to keep improving and creating. Happy coding!
