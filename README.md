@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Hasanuzzaman 👋
 
-Welcome to my GitHub profile! I'm a passionate about what i want to do, and I love to work hard on open-source projects and learning new technologies to servive the new modern world. Love to share new and interesting fact with my beloved one.
+Welcome to my GitHub profile! I'm passionate about what i want to do, and I love to work hard on open-source projects and learning new technologies to servive the new modern world. Love to share new and interesting fact with my beloved one.
 
 ## About Me
 
