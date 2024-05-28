@@ -18,7 +18,7 @@ I'm Md. Hasanuzzaman, a dedicated and innovative developer with a passion for We
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOfficial27&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOfficial27&langs_count=6&layout=compact&theme=radical)
 
 ## GitHub Streak
 
