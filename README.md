@@ -7,7 +7,7 @@ I'm Md. Hasanuzzaman, a dedicated and innovative developer with a passion for We
 - 🔭 I’m currently working on OOP.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on PHP project.
-- 📫 How to reach me: contact.hasanuzzaman@gmail.com
+- 📫 How to reach me: h27.contact@gmail.com
 - 💬 Ask me about my interest.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: The fun fact is that i am so innocent.
@@ -30,9 +30,9 @@ I'm Md. Hasanuzzaman, a dedicated and innovative developer with a passion for We
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/HasanOfficial277)](https://www.linkedin.com/in/HasanOfficial277)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/HasanOfficial277)](https://www.linkedin.com/in/HasanOfficial272)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HasanOfficial27)](https://twitter.com/HasanOfficial27)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.hasanuzzaman@gmail.com)](mailto:contact.hasanuzzaman@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.hasanuzzaman@gmail.com)](mailto:h27.contact@gmail.com)
 
 ## Some of My Projects
 
